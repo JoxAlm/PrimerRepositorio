@@ -13,3 +13,9 @@ git diff <file>//Para ver las diferencias en un archivo
 .gitignore //Archivo para ignoarr los que no queremos agregar a nuestro proyecto
 
 git branch // muestra las ramas
+
+git add . //agregar todos los archivos
+
+git remote add origin [ruta]  // Decir donde subiremos nuestros archivos
+
+git push -u origin master 
