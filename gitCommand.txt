@@ -5,3 +5,7 @@ git status // ver estados de nuestros archivos y/o  ver archivos
 git add <file> //A;adir archivo a nuestra area de trabajo
 
 git commit // Crear punto de partida (snapshot)
+
+git checkout -- <file> // descartar cambios en un archivo
+
+git diff <file>//Para ver las diferencias en un archivo
