@@ -9,3 +9,5 @@ git commit // Crear punto de partida (snapshot)
 git checkout -- <file> // descartar cambios en un archivo
 
 git diff <file>//Para ver las diferencias en un archivo
+
+.gitignore //Archivo para ignoarr los que no queremos agregar a nuestro proyecto
